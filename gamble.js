@@ -27,7 +27,7 @@ var balance = prompt("pila imo kwarta?");
                 alert("hayahaya sa boang oi.  balance: " + balance + " pesos.");
             } else {
                 balance -= 5;
-                alert("Wrong! Try again. balance: " + balance + " pesos.");
+                alert("bawi lang sunod boss. balance: " + balance + " pesos.");
             }
 
             updateBalance();
